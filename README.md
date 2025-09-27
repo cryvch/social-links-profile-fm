@@ -14,6 +14,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 
 - Solution URL: [GitHub Repo](https://github.com/cryvch/social-links-profile-fm)
 - Live Site URL: [Live Demo](https://social-links-fm1.vercel.app/)
+- Video Walkthrough: [Watch on YouTube](https://www.youtube.com/watch?v=TmtWAAnHoDk)
 
 ---
 
