@@ -53,5 +53,5 @@ cd social-links-profile
 
 ## Acknowledgements
 
-Challenge by Frontend Mentor
-Coded by cryvch
+- Challenge by Frontend Mentor
+- Coded by cryvch
