@@ -48,6 +48,7 @@ git clone https://github.com/cryvch/social-links-profile.git
 cd social-links-profile
 
 # Open index.html in your browser
+```
 
 
 ## Acknowledgements
