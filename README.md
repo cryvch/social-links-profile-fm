@@ -13,7 +13,7 @@ This is a solution to the [Social links profile challenge on Frontend Mentor](ht
 ## Links
 
 - Solution URL: [GitHub Repo](https://github.com/cryvch/social-links-profile-fm)
-- Live Site URL: [Live Demo](https://your-deployment-link.vercel.app/)
+- Live Site URL: [Live Demo](https://social-links-fm1.vercel.app/)
 
 ---
 
